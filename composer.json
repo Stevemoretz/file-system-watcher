@@ -1,5 +1,5 @@
 {
-    "name": "spatie/file-system-watcher",
+    "name": "steve-moretz/file-system-watcher",
     "description": "Watch changes in the file system using PHP",
     "keywords": [
         "spatie",
@@ -11,6 +11,10 @@
         {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
+            "role": "Developer"
+        },
+        {
+            "name": "Steve Moretz",
             "role": "Developer"
         }
     ],
